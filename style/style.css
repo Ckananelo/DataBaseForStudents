@@ -1,0 +1,49 @@
+h3{
+    text-align: center;
+    background-color: rgb(6, 136, 136);
+}
+
+.container{
+    width: 950px;
+    height: 950px;
+    background: #817272;
+
+}
+#box1{
+width: 950px;
+height: 35px;
+background-color: rgb(61, 116, 116);
+text-align: center;
+
+}
+#box2{
+    width:950px;
+    height: 350px;
+    background-color: rgb(102, 96, 96);
+    font-style: italic;
+    font-size: larger;
+    font-weight: bold;
+    text-align: left;
+}
+
+.table td, th{
+    border-style:groove;
+    background-color:  rgb(81, 82, 82);
+    text-align:unset;
+    table-layout: auto;
+
+}
+th{
+    padding: 10px;
+    background-color: rgb(204, 191, 191);
+    font-style: normal;
+
+    
+
+}
+input{
+    border-radius: 15px;
+    color: #332020;
+}
+
+
